@@ -2,3 +2,4 @@
 #subscription-userinfo: total=0
 
 vless://b54d36d1-43c3-4b8f-a5f8-cf6504db0562@144.31.233.236:9443?security=reality&encryption=none&pbk=MbYR2O0XBSeG74gGYpFIofXsILcf5lG2gc36GyURBXQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=0199436dd359351b#%F0%9F%87%B3%F0%9F%87%B1%20144.31.233.236%20%20%231
+vless://6607134958@magenta-pleonaste20840.my-vm.work:443?security=reality&encryption=none&pbk=978-Yxgtd3AWTVfiXEQqCstdwrT1qgsgleGPIRGQDl8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=bdac121c7debdaba#%F0%9F%87%B3%F0%9F%87%B1%20148.253.213.121%20%232
